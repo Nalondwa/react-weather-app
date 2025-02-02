@@ -12,7 +12,7 @@ export default function App() {
           <small>
             This project was coded by IZA NALONDWA and is {""}
             <a
-              href=""
+              href="https://github.com/Nalondwa/react-weather-app"
               target="_blank"
               rel="noopener noreferrer"
             >
