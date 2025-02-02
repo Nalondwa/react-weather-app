@@ -39,13 +39,12 @@ body{
     margin-bottom: 20px;
   }
   
-  .Weather .temperature {
-    font-size: 50px;
-    font-weight: 600;
-    background: linear-gradient(to right, #ff8c00, #ff4500);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
+  .Weather .temperature{
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 64px;
   
   }
   .Weather img{
