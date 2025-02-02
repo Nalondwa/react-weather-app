@@ -1,8 +1,8 @@
 import React from "react";
-import ForecastDate from "./forecastDate";
 
 
-export default function WeatherInfo(props) {
+
+export default function weatherInfo(props) {
 return (
   <div className="WeatherInfo">
     <h1>{props.data.city}</h1>
