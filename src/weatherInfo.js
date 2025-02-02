@@ -1,5 +1,5 @@
 import React from "react";
-
+import forecastDate from "./forecastDate";
 
 
 export default function weatherInfo(props) {
