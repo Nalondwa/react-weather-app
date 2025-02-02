@@ -3,8 +3,13 @@
   margin:   30px auto ;
 }
 
-.App footer{
-  font-size: 12px;
-  margin: 10px 0;
-
+@media (max-width: 768px) {
+  .App {
+    max-width: 90%;
+    margin: 20px auto;
+  }
+}
+.App footer {
+  text-align: center;
+  color: #666; /* Optional: makes it look subtle */
 }
