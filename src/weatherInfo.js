@@ -8,7 +8,7 @@ return (
     <h1>{props.data.city}</h1>
     <ul>
       <li>
-        <ForecastDate date={props.data.date} />
+        <forecastDate date={props.data.date} />
       </li>
       <li className="text-capitalize">{props.data.description}</li>
     </ul>
